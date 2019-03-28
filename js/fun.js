@@ -1,8 +1,8 @@
 new Vue({
-  el: '#app',
-  components: { app },
+  el: '#ysh',
+  components: { ysh },
   data: {
-    todo: 'asdasd',
+    text: 'hello-社会盼姐',
   },
   created() {
   },
